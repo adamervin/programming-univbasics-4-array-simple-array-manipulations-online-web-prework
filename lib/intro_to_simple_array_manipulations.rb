@@ -42,7 +42,7 @@ end
   end
     
     
-    
+ def using_delete(array )
     
     
     
