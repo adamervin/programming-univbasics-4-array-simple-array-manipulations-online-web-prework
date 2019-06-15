@@ -42,7 +42,9 @@ end
   end
     
     
- def using_delete(array )
+ def using_delete(array , no_offense_steven)
+   array.delete(no_offense_steven)
+ end
     
     
     
