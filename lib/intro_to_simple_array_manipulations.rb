@@ -24,7 +24,7 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using_concat(array , array)
-  array.concat
+def using_concat(array , more_faves)
+  array.concat(more_faves)
 end
   
