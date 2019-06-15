@@ -1,4 +1,4 @@
-def colors_in_the_rainbow(array , color)
+def using_push(array , color)
   color = "violet"
   array.push(color)
   
