@@ -38,7 +38,8 @@ end
   
   def using_flatten
     
-    
+    array.using_flatten
+  end
     
     
     
