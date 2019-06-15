@@ -13,6 +13,6 @@ array.pop
 end
 
 def pop_with_args(array)
-  array[2].pop
+  array[2 , 3].pop
 end
   
