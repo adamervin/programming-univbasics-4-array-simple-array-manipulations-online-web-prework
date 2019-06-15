@@ -47,7 +47,10 @@ end
  end
     
     
-def using_delete_at
+def using_delete_at(array, robot)
+  array.deleteat(deleted_robot)
+end
+  
   
     
     
